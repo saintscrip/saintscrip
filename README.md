@@ -1,5 +1,5 @@
 # scrip
-
+<sub>intp 5w4</sub>
 <font color="#888888">
 I hope to see my friend and shake his hand. I hope the Pacific is as blue as it has been in my dreams. I hope.
 </font>
@@ -8,14 +8,15 @@ I hope to see my friend and shake his hand. I hope the Pacific is as blue as it 
 
 ## interests
 
-- gustavo cerati
-- frank ocean
-- kendrick lamar
-- tyler, the creator
+- gustavo cerati, soda stereo, valentin strykalo, pink floyd
 - cinema
 - sopranos
 - breaking bad
 - the wire
+- lost 
+- coisas antigas no geral
+- paleontologia
+- documentários
 
 
 ## links
