@@ -2,7 +2,8 @@
   <source src="https://github.com/user-attachments/files/30682218/Bitter.Sweet.Symphony.Remastered.2016.mp3" type="video/mp4">
 </video>
 
-# scrip <sub>intp 5w4</sub>
+# scrip
+<sub>intp 5w4</sub>
 <font color="#888888">
 
 > I hope to see my friend and shake his hand. I hope the Pacific is as blue as it has been in my dreams. I hope.
