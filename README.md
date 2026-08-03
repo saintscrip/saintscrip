@@ -3,7 +3,7 @@
 </video>
 
 # scrip
-<sub>intp 5w4</sub>
+# <sub>intp 5w4</sub>
 <font color="#888888">
 
 I hope to see my friend and shake his hand. I hope the Pacific is as blue as it has been in my dreams. I hope.
