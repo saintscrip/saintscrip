@@ -13,6 +13,8 @@
 - cinema
 - sopranos
 - breaking bad
+- the wire
+
 
 ## links
 
