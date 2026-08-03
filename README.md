@@ -17,6 +17,7 @@ I hope to see my friend and shake his hand. I hope the Pacific is as blue as it 
 - lost
 - leyla ile mecnun
 - kukhnya
+- jaws 1975
 - coisas antigas no geral
 - paleontologia
 - documentários
