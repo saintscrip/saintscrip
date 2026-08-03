@@ -9,12 +9,14 @@ I hope to see my friend and shake his hand. I hope the Pacific is as blue as it 
 
 ## interests
 
-- gustavo cerati, soda stereo, valentin strykalo, pink floyd
+- gustavo cerati, soda stereo, valentin strykalo, pink floyd, ivan dorn
 - cinema
 - sopranos
 - breaking bad
 - the wire
-- lost 
+- lost
+- leyla ile mecnun
+- kukhnya
 - coisas antigas no geral
 - paleontologia
 - documentários
