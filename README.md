@@ -1,16 +1,25 @@
-## Hi there 👋
+# scrip
 
-<!--
-**saintscrip/saintscrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "music is my favorite language."
 
-Here are some ideas to get you started:
+<img src="LINK_DO_BANNER" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## interests
+
+- gustavo cerati
+- frank ocean
+- kendrick lamar
+- tyler, the creator
+- cinema
+- sopranos
+- breaking bad
+
+## links
+
+🎵 Last.fm → https://last.fm/user/SEUUSUARIO
+
+🎬 Letterboxd → https://letterboxd.com/...
+
+🐴 Pony Town → ...
+
+<img src="LINK_DE_UM_GIF">
