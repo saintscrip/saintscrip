@@ -1,6 +1,5 @@
 
-
-Uploading Bitter Sweet Symphony (Remastered 2016).mp4…
+[Bitter Sweet Symphony (Remastered 2016).mp3](https://github.com/user-attachments/files/30682218/Bitter.Sweet.Symphony.Remastered.2016.mp3)
 
 # scrip
 <sub>intp 5w4</sub>
