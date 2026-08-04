@@ -1,20 +1,13 @@
 ## <strong><em>scrip</em></strong>┃ intp 5w4
 <font color="#888888">
+  <img src="https://media.discordapp.net/attachments/1378044464232399042/1534006597544841226/output-onlinegiftools.gif?ex=6a728e79&is=6a713cf9&hm=e3285e411248dfe6331c2f238e91a56d3194a822cc68d36c8db3ca8f364bcbe6&=" width="100%">
 <blockquote>
   <b><i>
     I hope to see my friend and shake his hand.<br>
     I hope the Pacific is as blue as it has been in my dreams.<br>
     I hope.
   </i></b>
-</td>
 
-<td valign="top">
-
-<img src="https://i.pinimg.com/736x/4a/5d/ac/4a5dacdcc673a14878be59bd74fa3e75.jpg" width="300">
-
-</td>
-</tr>
-</table>
 
 ## interests
 
@@ -27,6 +20,7 @@
 - leyla ile mecnun
 - kukhnya
 - jaws 1975
+- twin peaks
 - coisas antigas no geral
 - paleontologia
 - documentários
