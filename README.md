@@ -1,4 +1,11 @@
 ## <strong><em>scrip</em></strong> ┃ intp 5w4
+<img src="https://github.com/saintscrip/saintscrip/blob/main/discover-a-hole-warden-norton%20(1).gif?raw=true" width="50%">
+
+<blockquote>
+  <i>I hope to see my friend and shake his hand.</i><br>
+  <i>I hope the Pacific is as blue as it has been in my dreams.</i><br>
+  <i>I hope.</i>
+</blockquote>
 <table>
 <tr>
 
