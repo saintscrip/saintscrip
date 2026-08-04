@@ -37,6 +37,7 @@
 <td valign="top" width="30%">
 
 <img src="https://i.pinimg.com/736x/06/d6/ef/06d6efba7fccd5bf6fdb4d75a9913772.jpg" width="220">
+<img src="https://media.discordapp.net/attachments/1285778210549796956/1534031380403585124/790dcebf1d76ba3e79efb24db1d4fc16-modified.jpg?ex=6a72a58e&is=6a71540e&hm=64675b0fb04fa2e0cba38e353415e67e11813f1f052f28701c69cf829ac45ab4&=&format=webp&width=544&height=768" width="220">
 
 </td>
 
