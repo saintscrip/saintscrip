@@ -21,4 +21,16 @@
 - paleontologia
 - documentários
 
-https://github.com/user-attachments/assets/a61a60ed-abb9-47ca-81d7-72f64483c36b
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <video width="400" controls>
+    <source src="https://github.com/user-attachments/assets/a61a60ed-abb9-47ca-81d7-72f64483c36b" type="video/mp4">
+  </video>
+
+  <div>
+    <b><i>
+      Here she comes<br>
+      You better watch your step<br>
+      She's going to break your heart in two, it's true<br>
+      It's not hard to realize<br>
+      Just look into her false colored
