@@ -27,6 +27,15 @@
 - paleontologia                                                            
 - documentários
 
+  <td valign="top" width="30%" align="right">
+
+<img src="https://i.pinimg.com/736x/06/d6/ef/06d6efba7fccd5bf6fdb4d75a9913772.jpg" width="220">
+
+</td>
+
+</tr>
+</table>
+
 
 
 https://github.com/user-attachments/assets/6b35c8c0-a250-4a5c-bf23-e883ec25cde6
