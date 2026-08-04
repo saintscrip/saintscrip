@@ -24,6 +24,15 @@
 - coisas antigas no geral
 - paleontologia
 - documentários
+</td>
+
+<td>
+
+<img src="https://i.pinimg.com/736x/4a/5d/ac/4a5dacdcc673a14878be59bd74fa3e75.jpg" width="300">
+
+</td>
+</tr>
+</table>
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
