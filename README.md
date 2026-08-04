@@ -1,33 +1,33 @@
 ## <strong><em>scrip</em></strong> ┃ intp 5w4
+<table>
+<tr>
 
-<img src="https://github.com/saintscrip/saintscrip/blob/main/discover-a-hole-warden-norton%20(1).gif?raw=true" width="50%">
+<td valign="top" width="70%">
 
-<blockquote>
-  <i>I hope to see my friend and shake his hand.</i><br>
-  <i>I hope the Pacific is as blue as it has been in my dreams.</i><br>
-  <i>I hope.</i>
-</blockquote>
+<b>interests</b>
 
-## interests
+<ul>
+<li><b>gustavo cerati</b>, soda stereo, valentin strykalo, <b>pink floyd</b>, ivan dorn</li>
+<li>cinema</li>
+<li><b>sopranos</b></li>
+<li>breaking bad</li>
+<li>the wire</li>
+<li>lost</li>
+<li><b>psicologia</b></li>
+<li>martin & lewis</li>
+<li>sherlock</li>
+<li>leyla ile mecnun</li>
+<li>kukhnya</li>
+<li><b>jaws 1975</b></li>
+<li>twin peaks</li>
+<li>coisas antigas no geral</li>
+<li>paleontologia</li>
+<li>documentários</li>
+</ul>
 
-- __gustavo cerati__, soda stereo, valentin strykalo, __pink floyd__, ivan dorn    
-- cinema                                                                   
-- __sopranos__                                                                 
-- breaking bad                                                             
-- the wire                                                                
-- lost
-- __psicologia__
-- martin & lewis
-- sherlock                                                                 
-- leyla ile mecnun                                                         
-- kukhnya                                                                  
-- __jaws 1975__                                                                
-- twin peaks                                                              
-- coisas antigas no geral                                                  
-- paleontologia                                                            
-- documentários
+</td>
 
-  <td valign="top" width="30%" align="right">
+<td valign="top" width="30%">
 
 <img src="https://i.pinimg.com/736x/06/d6/ef/06d6efba7fccd5bf6fdb4d75a9913772.jpg" width="220">
 
@@ -35,15 +35,3 @@
 
 </tr>
 </table>
-
-
-
-https://github.com/user-attachments/assets/6b35c8c0-a250-4a5c-bf23-e883ec25cde6
-
- <div>
-    <b><i>
-      Here she comes<br>
-      You better watch your step<br>
-      She's going to break your heart in two, it's true<br>
-      It's not hard to realize<br>
-      Just look into her false colored
