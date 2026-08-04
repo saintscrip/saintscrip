@@ -1,6 +1,6 @@
 ## <strong><em>scrip</em></strong>┃ intp 5w4
 
-<img src="https://media1.tenor.com/m/mKW6rgbxUSIAAAAd/discover-a-hole-warden-norton.gif" width="50%">
+<img src="https://github.com/saintscrip/saintscrip/blob/main/output-onlinegiftools.gif?raw=true" width="50%">
 
 <blockquote>
   <b><i>
