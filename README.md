@@ -1,6 +1,6 @@
 ## <strong><em>scrip</em></strong>┃ intp 5w4
 
-<gif src="https://d2n7fc0kw20ri7.cloudfront.net/38h1m%2Fpreview%2F79970300%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1785806830&Signature=UHmO-7-IGUp05VGsce-VmFbzRjOqd-qWSDjFtr4oBDN6ijp7IaTaW34H-lMdKotqhR3hCFeeS2VuAoXb7li7NeCUuJw~OwjUKx0E~nI~NL33gPhPNlmVs6B5yvSOouN-yNYC3A05XFs1ivkVtRvvbLygEG~pUDYvEwCgxIPk6YgmcSRIGD4YFbPWeleWHqJl-fCJH8n2RM3A0eJUro21FKmm7Gj1saoP-b6qL~RvlcZ9gq6n3xla5gjB1XZxFOUk2AMcKv02jfFgzqOoiGCN3P8S9HReimP2OPsNMU90S7BQ-LxxxLVWRQgnJBWRwKZJM0ElL9oqkJzTOW2O4lvD4w__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="100%">
+<img src="file:///C:/Users/BELARMINO%20EVENTOS/Downloads/output-onlinegiftools.gif" width="100%">
 <blockquote>
   <b><i>
     I hope to see my friend and shake his hand.<br>
