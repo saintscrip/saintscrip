@@ -7,6 +7,7 @@
   <i>I hope the Pacific is as blue as it has been in my dreams.</i><br>
   <i>I hope.</i>
 </blockquote>
+
 ## interests
 
 - gustavo cerati, soda stereo, valentin strykalo, pink floyd, ivan dorn    
