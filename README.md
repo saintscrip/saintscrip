@@ -15,7 +15,8 @@
 - sopranos                                                                 
 - breaking bad                                                             
 - the wire                                                                
-- lost                                                                     
+- lost
+- sherlock                                                                 
 - leyla ile mecnun                                                         
 - kukhnya                                                                  
 - jaws 1975                                                                
