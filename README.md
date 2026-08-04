@@ -8,7 +8,7 @@
 </blockquote>
 <table>
 <tr>
-<sub> <br> <br> intp 5w4 </sub>
+<div> <sub> INTP 5w4 </sub>
 
 <td valign="top" width="70%">
 
