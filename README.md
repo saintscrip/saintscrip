@@ -33,7 +33,7 @@
   <br>
 <br>
   
-<img src="https://media1.tenor.com/m/SrRUwMV_-T4AAAAC/omar-sy.gif" width="300">  
+
 </ul>
 
 </td>
