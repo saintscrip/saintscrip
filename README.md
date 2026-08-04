@@ -3,13 +3,10 @@
 <img src="https://github.com/saintscrip/saintscrip/blob/main/discover-a-hole-warden-norton%20(1).gif?raw=true" width="50%">
 
 <blockquote>
-  <b><i>
-    I hope to see my friend and shake his hand.<br>
-    I hope the Pacific is as blue as it has been in my dreams.<br>
-    I hope.
-  </i></b>
-<blockquote>
-
+  <i>I hope to see my friend and shake his hand.</i><br>
+  <i>I hope the Pacific is as blue as it has been in my dreams.</i><br>
+  <i>I hope.</i>
+</blockquote>
 ## interests
 
 - gustavo cerati, soda stereo, valentin strykalo, pink floyd, ivan dorn    
