@@ -10,19 +10,19 @@
 
 ## interests
 
-- gustavo cerati, soda stereo, valentin strykalo, pink floyd, ivan dorn
-- cinema
-- sopranos
-- breaking bad
-- the wire
-- lost
-- leyla ile mecnun
-- kukhnya
-- jaws 1975
-- twin peaks
-- coisas antigas no geral
-- paleontologia
-- documentários
+- gustavo cerati, soda stereo, valentin strykalo, pink floyd, ivan dorn    |
+- cinema                                                                   |
+- sopranos                                                                 |
+- breaking bad                                                             |
+- the wire                                                                 |
+- lost                                                                     |
+- leyla ile mecnun                                                         |
+- kukhnya                                                                  |
+- jaws 1975                                                                |
+- twin peaks                                                               |
+- coisas antigas no geral                                                  |
+- paleontologia                                                            |
+- documentários                                                            |
 
 https://github.com/user-attachments/assets/a61a60ed-abb9-47ca-81d7-72f64483c36b
 
