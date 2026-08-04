@@ -10,9 +10,9 @@
 
 ## interests
 
-- gustavo cerati, soda stereo, valentin strykalo, pink floyd, ivan dorn    
+- __gustavo cerati__, soda stereo, valentin strykalo, __pink floyd__, ivan dorn    
 - cinema                                                                   
-- sopranos                                                                 
+- __sopranos__                                                                 
 - breaking bad                                                             
 - the wire                                                                
 - lost
@@ -20,7 +20,7 @@
 - sherlock                                                                 
 - leyla ile mecnun                                                         
 - kukhnya                                                                  
-- jaws 1975                                                                
+- __jaws 1975__                                                                
 - twin peaks                                                              
 - coisas antigas no geral                                                  
 - paleontologia                                                            
