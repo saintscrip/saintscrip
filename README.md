@@ -30,8 +30,8 @@
 <li>coisas antigas no geral</li>
 <li>paleontologia</li>
 <li>documentários</li>
-
-
+  <br>
+<br>
   
 <img src="https://media1.tenor.com/m/SrRUwMV_-T4AAAAC/omar-sy.gif" width="300">  
 </ul>
