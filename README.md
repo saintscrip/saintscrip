@@ -1,7 +1,6 @@
-<video controls>
-  <source src="https://github.com/user-attachments/files/30682218/Bitter.Sweet.Symphony.Remastered.2016.mp3" type="video/mp4">
+<video width="400" controls>
+  <source src="LINK_DO_VIDEO" type="video/mp4">
 </video>
-
 # scrip
 <sub>intp 5w4</sub>
 <font color="#888888">
