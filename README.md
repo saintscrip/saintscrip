@@ -16,6 +16,7 @@
 - breaking bad                                                             
 - the wire                                                                
 - lost
+- __psicologia__
 - martin & lewis
 - sherlock                                                                 
 - leyla ile mecnun                                                         
