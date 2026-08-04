@@ -26,17 +26,16 @@
 - coisas antigas no geral                                                  
 - paleontologia                                                            
 - documentários
-  </td>
+</td>
 
 <td valign="top">
 
 <img src="https://i.pinimg.com/736x/06/d6/ef/06d6efba7fccd5bf6fdb4d75a9913772.jpg" width="220">
 
 </td>
+
 </tr>
 </table>
-https://github.com/user-attachments/assets/a61a60ed-abb9-47ca-81d7-72f64483c36b
-
   <div>
     <b><i>
       Here she comes<br>
