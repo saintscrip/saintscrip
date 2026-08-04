@@ -26,12 +26,7 @@
 - coisas antigas no geral                                                  
 - paleontologia                                                            
 - documentários
-</td>
-
-<video controls width="450">
-  <source src="https://github.com/user-attachments/assets/a61a60ed-abb9-47ca-81d7-72f64483c36b" type="video/mp4">
-</video>
-    <b><i>
+https://github.com/user-attachments/assets/a61a60ed-abb9-47ca-81d7-72f64483c36b
       Here she comes<br>
       You better watch your step<br>
       She's going to break your heart in two, it's true<br>
