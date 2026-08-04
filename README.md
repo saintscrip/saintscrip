@@ -1,6 +1,6 @@
 ## <strong><em>scrip</em></strong>┃ intp 5w4
 
-<img src="https://media1.tenor.com/m/QnlRN62kP0wAAAAC/nuovo-cinema-paradiso-toto.gif" width="50%">
+<img src="https://media1.tenor.com/m/mKW6rgbxUSIAAAAd/discover-a-hole-warden-norton.gif" width="50%">
 
 <blockquote>
   <b><i>
