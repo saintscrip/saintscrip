@@ -1,11 +1,6 @@
 ## scrip
 <sub>intp 5w4</sub>
 <font color="#888888">
-
-https://github.com/user-attachments/assets/a61a60ed-abb9-47ca-81d7-72f64483c36b
-
-
-
 > I hope to see my friend and shake his hand. I hope the Pacific is as blue as it has been in my dreams. I hope.
 </font>
 
@@ -26,13 +21,4 @@ https://github.com/user-attachments/assets/a61a60ed-abb9-47ca-81d7-72f64483c36b
 - paleontologia
 - documentários
 
-
-## links
-
-🎵 Last.fm → https://last.fm/user/SEUUSUARIO
-
-🎬 Letterboxd → https://letterboxd.com/...
-
-🐴 Pony Town → ...
-
-<img src="LINK_DE_UM_GIF">
+https://github.com/user-attachments/assets/a61a60ed-abb9-47ca-81d7-72f64483c36b
