@@ -1,15 +1,4 @@
 
-
-https://github.com/user-attachments/assets/e75fd99a-f9f7-44dc-939d-8d7118b8a206
-
-
-
-https://github.com/user-attachments/assets/beae9802-03cf-4acf-b088-e21aec2fa5a3
-
-
-
-https://github.com/user-attachments/assets/25872584-4f92-41ce-a596-4ed508565706
-
 ## <strong><em>scrip</em></strong>
 <img src="https://github.com/saintscrip/saintscrip/blob/main/discover-a-hole-warden-norton%20(1).gif?raw=true" width="50%">
 
@@ -62,12 +51,5 @@ https://github.com/user-attachments/assets/25872584-4f92-41ce-a596-4ed508565706
 </tr>
 </table>
 
-https://github.com/user-attachments/assets/6b35c8c0-a250-4a5c-bf23-e883ec25cde6
 
- <div>
-    <b><i>
-      Here she comes<br>
-      You better watch your step<br>
-      She's going to break your heart in two, it's true<br>
-      It's not hard to realize<br>
-      Just look into her false colored eyes
+https://github.com/user-attachments/assets/e75fd99a-f9f7-44dc-939d-8d7118b8a206
