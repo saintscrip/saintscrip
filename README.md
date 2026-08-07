@@ -1,3 +1,15 @@
+
+
+https://github.com/user-attachments/assets/e75fd99a-f9f7-44dc-939d-8d7118b8a206
+
+
+
+https://github.com/user-attachments/assets/beae9802-03cf-4acf-b088-e21aec2fa5a3
+
+
+
+https://github.com/user-attachments/assets/25872584-4f92-41ce-a596-4ed508565706
+
 ## <strong><em>scrip</em></strong>
 <img src="https://github.com/saintscrip/saintscrip/blob/main/discover-a-hole-warden-norton%20(1).gif?raw=true" width="50%">
 
