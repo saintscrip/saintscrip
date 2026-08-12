@@ -48,10 +48,4 @@
 <img src="https://media1.tenor.com/m/wd4H7ti-XE8AAAAC/greece-dance.gif" width="220">
 
 
-
-</td>
-
-</tr>
-</table>
-
 https://github.com/user-attachments/assets/6c5cdf0a-a1db-4b23-8b05-c915a98a5e58
