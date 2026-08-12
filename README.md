@@ -1,6 +1,7 @@
 
 ## <strong><em>scrip</em></strong>
-<img src="https://github.com/saintscrip/saintscrip/blob/main/discover-a-hole-warden-norton%20(1).gif?raw=true" width="50%">
+<img width="400" height="400" alt="los-prisioneros-los-presos (1)" src="https://github.com/user-attachments/assets/41c67152-c8d5-4be4-bceb-93ca3de0593d" />
+
 
 <blockquote>
   <i>I hope to see my friend and shake his hand.</i><br>
