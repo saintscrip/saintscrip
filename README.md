@@ -47,10 +47,10 @@
 <img src="https://media.discordapp.net/attachments/1285778210549796956/1534031380403585124/790dcebf1d76ba3e79efb24db1d4fc16-modified.jpg?ex=6a72a58e&is=6a71540e&hm=64675b0fb04fa2e0cba38e353415e67e11813f1f052f28701c69cf829ac45ab4&=&format=webp&width=544&height=768" width="220">
 <img src="https://media1.tenor.com/m/wd4H7ti-XE8AAAAC/greece-dance.gif" width="220">
 
+</td>
 
-</blockquote>
-<table>
-<tr>
+</tr>
+</table>
 
 https://github.com/user-attachments/assets/1160445b-485a-434c-880c-af8487a7ad98
 
