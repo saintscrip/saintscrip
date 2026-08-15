@@ -33,6 +33,9 @@
   <br>
 <br>
 <img width="420" height="236" alt="omar-sy" src="https://github.com/user-attachments/assets/9edde99d-c90f-4a4f-9724-13330debee8b"
+<br><br>
+<img width="498" height="245" alt="band-of-brothers-wwii" src="https://github.com/user-attachments/assets/fbf366ce-22c8-4dce-b84b-9e3a6c2e86e3"/>
+
 
 </ul>
 
