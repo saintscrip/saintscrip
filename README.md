@@ -20,7 +20,7 @@
 <ul>
 <li><b>gustavo cerati</b>, soda stereo, valentin strykalo, <b>pink floyd</b>, ivan dorn</li>
 <li>cinema</li>
-- $$\color{orange}\mathbf{sopranos}$$
+<li>$$\color{orange}\mathbf{sopranos}$$
 <li>breaking bad</li>
 <li>the wire</li>
 <li>lost</li>
