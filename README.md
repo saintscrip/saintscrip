@@ -53,9 +53,9 @@
 </table>
 
 ## $$\color{orange}\huge\text{links}$$
-<a href="https://www.last.fm/user/scripness">$$\color{orange}\text{last.fm}$$</a><br>
+<a href="https://www.last.fm/user/scripness">$$\color{orange}\text{last.fm}$$</a>
 <a href="https://www.instagram.com/ceratiscrip/">$$\color{orange}\text{instagram}$$</a>
-<br><br>
+
 
 
 https://github.com/user-attachments/assets/f82d83f1-e594-4b07-a041-db3b1d28c524
