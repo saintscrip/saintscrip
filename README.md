@@ -1,4 +1,4 @@
-## $$\color{orange}\huge\text{scrip}$$                              $$\color{orange}\fontsize{50}{60}\selectfont\textit{scrip}$$
+## $$\color{orange}\huge\text{scrip}$$
 &nbsp;&nbsp;&nbsp;
 <sub>intp 5w4</sub>
 
