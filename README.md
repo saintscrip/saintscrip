@@ -18,19 +18,19 @@
 <b>interesses</b>
 
 <ul>
-<li><b>gustavo cerati</b>, soda stereo, valentin strykalo, <b>pink floyd</b>, ivan dorn</li>
+<li>$$\color{orange}\mathbf{gustavo\ cerati}$$, soda stereo, valentin strykalo, <b>pink floyd</b>, ivan dorn</li>
 <li>cinema</li>
 <li>$$\color{orange}\mathbf{sopranos}$$</li>
-<li>breaking bad</li>
+<li>$$\color{orange}\mathbf{breaking\ bad}$$</li>
 <li>the wire</li>
 <li>lost</li>
-<li><b>psicologia</b></li>
+<li>$$\color{orange}\mathbf{psicologia}$$</li>
 <li>martin & lewis</li>
 <li>sherlock</li>
 <li>leyla ile mecnun</li>
 <li>kukhnya</li>
 <li>band of brothers</li>
-<li><b>jaws 1975</b></li>
+<li>$$\color{orange}\mathbf{jaws\ 1975}$$</li>
 <li>paleontologia</li>
 <li>documentários</li>
   <br>
