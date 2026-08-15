@@ -1,4 +1,6 @@
-## $$\color{orange}\huge\text{scrip}$$                                <sub><sub>intp 5w4<sub></sub>
+## $$\color{orange}\huge\text{scrip}$$                              $$\color{orange}\fontsize{50}{60}\selectfont\textit{scrip}$$
+&nbsp;&nbsp;&nbsp;
+<sub>intp 5w4</sub>
 
 <img width="498" height="210" alt="4107486a-644e-43cb-aed4-983550eb9470" src="https://github.com/user-attachments/assets/98a99a9d-56fa-408e-8904-9a45ad9dbb15" />
 
