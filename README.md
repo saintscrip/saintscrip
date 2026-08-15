@@ -1,7 +1,8 @@
 ## $$\color{orange}\huge\text{scrip}$$
 <sub>intp 5w4</sub>
 
-<img width="498" height="210" alt="kidnap-reservoir-dogs-ezgif com-instagif" src="https://github.com/user-attachments/assets/4bff97a0-e7a7-46a4-a1a8-c14cd584f1f6" />
+<img width="498" height="210" alt="reservoir dogs" src="https://github.com/user-attachments/assets/f4a5b097-ed7b-4b74-b4cc-e1f16767d9c7" />
+
 
 
 <blockquote>
