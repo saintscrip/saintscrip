@@ -1,5 +1,5 @@
 
-## <strong><em>scrip</em></strong>
+## <strong><em>$$\color{orange}scrip</em></strong>
 <img width="498" height="210" alt="4107486a-644e-43cb-aed4-983550eb9470" src="https://github.com/user-attachments/assets/98a99a9d-56fa-408e-8904-9a45ad9dbb15" />
 
 <blockquote>
