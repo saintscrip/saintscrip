@@ -14,7 +14,7 @@
 
 <td valign="top" width="70%">
 
-<b>interests</b>
+<b>interesses</b>
 
 <ul>
 <li><b>gustavo cerati</b>, soda stereo, valentin strykalo, <b>pink floyd</b>, ivan dorn</li>
@@ -29,8 +29,6 @@
 <li>leyla ile mecnun</li>
 <li>kukhnya</li>
 <li><b>jaws 1975</b></li>
-<li>twin peaks</li>
-<li>coisas antigas no geral</li>
 <li>paleontologia</li>
 <li>documentários</li>
   <br>
@@ -51,7 +49,4 @@
 
 </tr>
 </table>
-
-https://github.com/user-attachments/assets/1160445b-485a-434c-880c-af8487a7ad98
-
 
