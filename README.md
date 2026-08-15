@@ -1,9 +1,6 @@
 
 ## <strong><em>scrip</em></strong>
 <img width="498" height="210" alt="kidnap-reservoir-dogs" src="https://github.com/user-attachments/assets/334990c4-d124-4e6f-a5a9-3db348d04a88" />
-
-
-
 <blockquote>
   <i>I hope to see my friend and shake his hand.</i><br>
   <i>I hope the Pacific is as blue as it has been in my dreams.</i><br>
@@ -50,7 +47,7 @@
 
 </td>
 </tr>
-https://github.com/user-attachments/assets/ea1a0aaa-091c-49ea-859a-ac8c0c039a99
+
 </table>
 
 
