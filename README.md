@@ -34,7 +34,9 @@
 <li>documentários</li>
   <br>
 <br>
-<img width="498" height="245" alt="905736a4-3719-476b-b0ab-5daf96fb969c" src="https://github.com/user-attachments/assets/7daeae56-5b00-420f-ab51-3addb20ca5ed" />
+  
+<img width="498" height="245" alt="ezgif-331a8d0b327e492f" src="https://github.com/user-attachments/assets/b5f5efc5-479a-4144-af7c-4c5ecdcf8040" />
+
 <br><br>
 <img width="498" height="245" alt="band-of-brothers-wwii" src="https://github.com/user-attachments/assets/fbf366ce-22c8-4dce-b84b-9e3a6c2e86e3"/>
 
