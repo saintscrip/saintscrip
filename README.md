@@ -47,13 +47,11 @@
 <img src="https://i.pinimg.com/736x/80/cc/75/80cc75e9804809ac713cc6889a2e63a4.jpg" width= "220">
 <img src="https://media1.tenor.com/m/wd4H7ti-XE8AAAAC/greece-dance.gif" width="220">
 
-
-
-https://github.com/user-attachments/assets/6d59f058-48c8-48e7-993a-995e7cbf0bac
-
-
-
 </td>
+
+
+https://github.com/user-attachments/assets/ea1a0aaa-091c-49ea-859a-ac8c0c039a99
+
 
 </tr>
 </table>
