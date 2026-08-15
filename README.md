@@ -33,8 +33,7 @@
 <li>documentários</li>
   <br>
 <br>
-<img width="420" height="236" alt="omar-sy" src="https://github.com/user-attachments/assets/9edde99d-c90f-4a4f-9724-13330debee8b" />
- />
+<img width="420" height="236" alt="omar-sy" src="https://github.com/user-attachments/assets/9edde99d-c90f-4a4f-9724-13330debee8b"
 
 </ul>
 
