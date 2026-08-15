@@ -51,7 +51,8 @@
 </td>
 </tr>
 </table>
-$$\color{orange}\fontsize{40}{48}\selectfont\textit{links}$$
+
+## $$\color{orange}\huge\text{links}$$
 
 <br><br>
 
