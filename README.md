@@ -32,7 +32,7 @@
 <li>documentários</li>
   <br>
 <br>
-<img width="498" height="245" alt="omar-sy" src="https://github.com/user-attachments/assets/9edde99d-c90f-4a4f-9724-13330debee8b"
+<img width="498" height="245" alt="905736a4-3719-476b-b0ab-5daf96fb969c" src="https://github.com/user-attachments/assets/7daeae56-5b00-420f-ab51-3addb20ca5ed" />
 <br><br>
 <img width="498" height="245" alt="band-of-brothers-wwii" src="https://github.com/user-attachments/assets/fbf366ce-22c8-4dce-b84b-9e3a6c2e86e3"/>
 
