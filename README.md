@@ -1,6 +1,7 @@
 
 ## <strong><em>scrip</em></strong>
-<img width="300" height="300" alt="los-prisioneros-los-presos (2)" src="https://github.com/user-attachments/assets/6aa45ff5-d6e1-4d1e-b169-00e3ef2741b6" />
+<img width="498" height="210" alt="kidnap-reservoir-dogs" src="https://github.com/user-attachments/assets/334990c4-d124-4e6f-a5a9-3db348d04a88" />
+
 
 
 <blockquote>
