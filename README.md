@@ -50,10 +50,6 @@
 
 <br><br>
 
-<video controls width="450">
-  <source src="
 
-https://github.com/user-attachments/assets/48d44914-d3ff-4ef4-88a5-12a650325b29
+https://github.com/user-attachments/assets/f82d83f1-e594-4b07-a041-db3b1d28c524
 
-" type="video/mp4">
-</video>
