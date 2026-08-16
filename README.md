@@ -27,6 +27,7 @@
 <li>$$\color{orange}\mathbf{psicologia}$$</li>
 <li>martin & lewis</li>
 <li>sherlock</li>
+<li>atlanta</li>
 <li>leyla ile mecnun</li>
 <li>kukhnya</li>
 <li>band of brothers</li>
