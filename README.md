@@ -46,8 +46,6 @@ $$\color{orange}\huge\text{links}$$
 &nbsp;  &nbsp;
 <a href="https://www.instagram.com/ceratiscrip/">instagram</a>
 
-<img src="https://s7.ezgif.com/tmp/ezgif-7621a14dfce0c747.gif" width="1000" height="70">
-
 
 </td>
 
