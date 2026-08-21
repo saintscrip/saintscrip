@@ -40,10 +40,7 @@
 <br><br>
 <img width="500" alt="band-of-brothers-wwii" src="https://github.com/user-attachments/assets/fbf366ce-22c8-4dce-b84b-9e3a6c2e86e3"/>
 <br><br><br>
-<a href="SEU_LINK_DO_LASTFM">$$\color{orange}\text{last.fm}$$</a>
-
-<a href="SEU_LINK_DO_INSTAGRAM">$$\color{orange}\text{instagram}$$</a>
-
+$$\color{orange}\huge\text{links}$$
 <td valign="top">
 
 <img src="https://i.pinimg.com/736x/92/bc/3a/92bc3a57c3539bbeb90f42bad920e14e.jpg" width="150"><br><br>
