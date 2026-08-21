@@ -9,10 +9,10 @@
 <b>interesses</b>
 
 <ul>
-<li>$$\color{orange}\mathbf{gustavo\ cerati}$$, soda stereo, valentin strykalo, <b>pink floyd</b>, ivan dorn</li>
+<li>gustavo cerati, soda stereo, valentin strykalo, <b>pink floyd</b>, ivan dorn</li>
 <li>cinema</li>
 <li>$$\color{orange}\mathbf{sopranos}$$</li>
-<li>$$\color{orange}\mathbf{breaking\ bad}$$</li>
+<li>$$\color{darkblue}\mathbf{breaking\ bad}$$</li>
 <li>the wire</li>
 <li>lost</li>
 <li>$$\color{orange}\mathbf{psicologia}$$</li>
