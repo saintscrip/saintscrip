@@ -40,6 +40,10 @@
 <br><br>
 <img width="500" alt="band-of-brothers-wwii" src="https://github.com/user-attachments/assets/fbf366ce-22c8-4dce-b84b-9e3a6c2e86e3"/>
 </td>
+## $$\color{orange}\huge\text{links}$$
+<a href="https://www.last.fm/user/scripness">last.fm</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/ceratiscrip/">instagram</a>
 
 </td>
 
@@ -55,8 +59,4 @@
 </tr>
 </table>
 
-## $$\color{orange}\huge\text{links}$$
-<a href="https://www.last.fm/user/scripness">last.fm</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/ceratiscrip/">instagram</a>
 
