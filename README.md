@@ -4,15 +4,6 @@
 <img width="498" height="210" alt="reservoir dogs" src="https://github.com/user-attachments/assets/f4a5b097-ed7b-4b74-b4cc-e1f16767d9c7" />
 
 
-
-<blockquote>
-  <i>I hope to see my friend and shake his hand.</i><br>
-  <i>I hope the Pacific is as blue as it has been in my dreams.</i><br>
-  <i>I hope.</i>
-</blockquote>
-<table>
-<tr>
-
 <td valign="top" width="70%">
 
 <b>interesses</b>
