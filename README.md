@@ -39,7 +39,10 @@
 
 <br><br>
 <img width="500" alt="band-of-brothers-wwii" src="https://github.com/user-attachments/assets/fbf366ce-22c8-4dce-b84b-9e3a6c2e86e3"/>
-</td>
+<br><br><br>
+<a href="SEU_LINK_DO_LASTFM">$$\color{orange}\text{last.fm}$$</a>
+
+<a href="SEU_LINK_DO_INSTAGRAM">$$\color{orange}\text{instagram}$$</a>
 
 <td valign="top">
 
