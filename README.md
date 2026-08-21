@@ -52,7 +52,7 @@ $$\color{orange}\huge\text{links}$$
 <td valign="top">
 
 <img src="https://i.pinimg.com/736x/92/bc/3a/92bc3a57c3539bbeb90f42bad920e14e.jpg" width="150"><br><br>
-<img src="https://i.pinimg.com/736x/89/60/55/8960558869193d4fbcbe5696e029e615.jpg" width="150"><br><br>
+<img src="https://i.pinimg.com/736x/b5/9b/a2/b59ba2e8cb124e57fe59adf154d256ac.jpg" width="150"><br><br>
 <img src="https://i.pinimg.com/736x/80/cc/75/80cc75e9804809ac713cc6889a2e63a4.jpg" width="150"><br><br>
 <img src="https://i.pinimg.com/736x/2d/5b/61/2d5b61f429078f2dbd06f5af8f0bbc37.jpg" width="150">
 
