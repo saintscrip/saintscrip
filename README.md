@@ -1,4 +1,4 @@
-## $$\color{orange}\huge\text{scrip}$$
+## $$\color{blue}\huge\text{scrip}$$
 <sub>intp 5w4</sub>
 
 <img width="498" height="210" alt="reservoir dogs" src="https://github.com/user-attachments/assets/f4a5b097-ed7b-4b74-b4cc-e1f16767d9c7" />
