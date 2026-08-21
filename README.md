@@ -31,6 +31,8 @@
 <tr>
 
 <td valign="top">
+<div style="display:flex; align-items:flex-start; gap:10px;">
+
   
 <img width="498" height="245" alt="au revoir" src="https://github.com/user-attachments/assets/83ade6cc-9d23-4d20-a988-f8f65e80ae90" />
 
