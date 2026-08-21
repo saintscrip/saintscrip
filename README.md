@@ -34,11 +34,11 @@
 <div style="display:flex; align-items:flex-start; gap:10px;">
 
   
-<img width="520" height="520" alt="au revoir" src="https://github.com/user-attachments/assets/83ade6cc-9d23-4d20-a988-f8f65e80ae90" />
+<img width="498" height="210" alt="au revoir" src="https://github.com/user-attachments/assets/83ade6cc-9d23-4d20-a988-f8f65e80ae90" />
 
 
 <br><br>
-<img width="520" height="520" alt="band-of-brothers-wwii" src="https://github.com/user-attachments/assets/fbf366ce-22c8-4dce-b84b-9e3a6c2e86e3"/>
+<img width="498" height="210" alt="band-of-brothers-wwii" src="https://github.com/user-attachments/assets/fbf366ce-22c8-4dce-b84b-9e3a6c2e86e3"/>
 </td>
 
 </td>
