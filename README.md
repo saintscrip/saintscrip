@@ -35,12 +35,14 @@
 <img width="498" height="245" alt="band-of-brothers-wwii" src="https://github.com/user-attachments/assets/fbf366ce-22c8-4dce-b84b-9e3a6c2e86e3"/>
 </td>
 
-<td valign="top" width="70%">
+</td>
 
-<img src="https://i.pinimg.com/736x/92/bc/3a/92bc3a57c3539bbeb90f42bad920e14e.jpg" width="120">
-<img src="https://i.pinimg.com/736x/89/60/55/8960558869193d4fbcbe5696e029e615.jpg" width="120">
-<img src="https://i.pinimg.com/736x/80/cc/75/80cc75e9804809ac713cc6889a2e63a4.jpg" width="120">
-<img src="https://i.pinimg.com/736x/e3/a2/b0/e3a2b08ffc9f56b2702d731c3fec1d17.jpg" width="120">
+<td valign="top">
+
+<img src="https://i.pinimg.com/736x/92/bc/3a/92bc3a57c3539bbeb90f42bad920e14e.jpg" width="150"><br><br>
+<img src="https://i.pinimg.com/736x/89/60/55/8960558869193d4fbcbe5696e029e615.jpg" width="150"><br><br>
+<img src="https://i.pinimg.com/736x/80/cc/75/80cc75e9804809ac713cc6889a2e63a4.jpg" width="150"><br><br>
+<img src="https://i.pinimg.com/736x/e3/a2/b0/e3a2b08ffc9f56b2702d731c3fec1d17.jpg" width="150">
 
 </td>
 
