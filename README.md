@@ -58,16 +58,3 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/ceratiscrip/">instagram</a>
 
-
-
-
-
-
-
-https://github.com/user-attachments/assets/4f4d47b4-1951-4908-9f10-1eed80e5297f
-
-
-
-
-
-
