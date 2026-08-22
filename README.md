@@ -47,8 +47,7 @@ $$\color{orange}\huge\text{links}$$
 <a href="https://www.instagram.com/ceratiscrip/">instagram</a>
 
 
-<img width="400" alt="ezgif-80ac3633fe8c3ba8" src="https://github.com/user-attachments/assets/c9610dd4-c5ef-4719-bc3f-a7201331f168" />
-
+<img src="https://i.pinimg.com/1200x/df/ad/de/dfadde3409dbbcde66d4c7847d90f07b.jpg" width="150"><br><br>
 
 
 </td>
