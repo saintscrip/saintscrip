@@ -1,30 +1,6 @@
-## $$\color{darkblue}\huge\text{scrip}$$
-<sub>intp 5w4</sub>
+## $$\color{darkblue}\huge\text{<a href="https://saintscrip.straw.page/">strawpage</a>
+}$$
 
-<img width="498" height="210" alt="reservoir dogs" src="https://github.com/user-attachments/assets/f4a5b097-ed7b-4b74-b4cc-e1f16767d9c7" />
-
-
-<td valign="top" width="70%">
-
-<b>interesses</b>
-
-<ul>
-<li>gustavo cerati, soda stereo, valentin strykalo, <b>pink floyd</b>, ivan dorn</li>
-<li>cinema</li>
-<li>$$\color{orange}\mathbf{sopranos}$$</li>
-<li>$$\color{darkblue}\mathbf{breaking\ bad}$$</li>
-<li>the wire</li>
-<li>lost</li>
-<li>$$\color{orange}\mathbf{psicologia}$$</li>
-<li>martin & lewis</li>
-<li>sherlock</li>
-<li>atlanta</li>
-<li>leyla ile mecnun</li>
-<li>kukhnya</li>
-<li>band of brothers</li>
-<li>$$\color{orange}\mathbf{jaws\ 1975}$$</li>
-<li>paleontologia</li>
-<li>documentários</li>
   <br>
 <br>
 <table>
